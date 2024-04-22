@@ -1,0 +1,8 @@
+prefix=/home/nivpc/desertation_ws/devel
+
+Name: gazebotest
+Description: Description of gazebotest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
